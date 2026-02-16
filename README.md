@@ -39,4 +39,4 @@ El proyecto se dividirá en dos fases principales:
 - Dashboard Frontend: Desarrollo con Vue.js para visualizar el inventario, gráficas de rendimiento y gestión de alertas.
 - Pruebas e Informes: Validación del sistema y generación de reportes automáticos en PDF/Excel.
 
-![Icono_HWPulse](image.png)
+![Ícono](/images/iconoAltHWPulse.jpg)
