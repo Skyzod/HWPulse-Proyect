@@ -1,9 +1,9 @@
 # HWPulse-Proyect
 Personal proyect
 
-Sistema Fullstack de Inventario y Diagnóstico Automático
+## Sistema Fullstack de Inventario y Diagnóstico Automático
 
-Darío Acevedo Hijano
+**Darío Acevedo Hijano**
 
 1. Finalidad
 Este proyecto consiste en el desarrollo de un programa de monitorización y gestión de activos informáticos. El propósito principal es automatizar la recolección de datos técnicos de hardware y software en una red, eliminando la necesidad de auditorías manuales y ahorrando tiempo en la administración de sistemas. Se busca ofrecer una plataforma de inventario que también diagnostique el estado de salud de los componentes en tiempo real.
