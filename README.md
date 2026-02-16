@@ -38,3 +38,5 @@ El proyecto se dividirá en dos fases principales:
 - API y Backend: Definición de modelos, vistas y endpoints en Django para recibir los datos de los agentes.
 - Dashboard Frontend: Desarrollo con Vue.js para visualizar el inventario, gráficas de rendimiento y gestión de alertas.
 - Pruebas e Informes: Validación del sistema y generación de reportes automáticos en PDF/Excel.
+
+![Icono_HWPulse](image.png)
